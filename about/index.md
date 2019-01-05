@@ -2,12 +2,12 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/casper.png'
+logo: 'assets/images/ghost.png'
 current: about
 ---
+![Jeong](../assets/images/about/about.jpg)
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
-
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+2010 ~ 2017 : 숭실대학교 컴퓨터학부
+2011 ~ 2012 : 소말리아 청해부대9진 전산병 근무
+2014 ~ 2016 : 전자부품연구원 휴먼케어시스템 근무
+2017 ~ : 삼성전자 무선사업부 AI팀 근무
