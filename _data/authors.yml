@@ -38,3 +38,11 @@ martin:
   url: jekyller.github.io/jasper
   bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
   assets: assets/images/martin.jpg
+jeong:
+  username: jeong
+  name: Changyong Jeong
+  location: Suwon-si, Gyeonggi-do, Republic of Korea
+  url_full: https://core-jeong.github.io/
+  url: core-jeong.github.io/
+  bio: Korean Programmer
+  assets: assets/images/authors/jeong.jpg
